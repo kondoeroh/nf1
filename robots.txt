@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://visionary-otter-9e68e2.netlify.app/sitemap.xml
